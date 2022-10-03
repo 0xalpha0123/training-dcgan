@@ -1,5 +1,5 @@
 tensorflowjs==1.2.6
-pillow==8.3.2
+pillow==9.0.1
 chainer==6.2.0
 absl-py==0.7.1
 cupy-cuda100==6.2.0
